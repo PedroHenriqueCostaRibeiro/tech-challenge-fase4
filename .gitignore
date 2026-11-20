@@ -1,0 +1,15 @@
+# Dependências e builds
+node_modules/
+dist/
+
+# Ambiente
+.env
+.env*.local
+
+# Banco SQLite local (recriado automaticamente)
+backend/data/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.log
